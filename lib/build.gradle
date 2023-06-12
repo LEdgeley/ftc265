@@ -61,7 +61,7 @@ repositories {
     mavenCentral()
 
     maven {
-        url 'https://maven.0x778.tk'
+        url 'https://maven.catboy.camp'
     }
 }
 
